@@ -1,0 +1,44 @@
+html {
+    background-color: lightgreen;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .watch {
+    width: 75%;
+    margin-top: 17%;
+    margin-left: 22%;
+    align-items: center;
+  }
+  
+  input {
+    border-radius: 20px;
+    height: 100px;
+    width: 200px;
+    opacity: 0.5;
+    background-color: lightblue;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 10px;
+  }
+  
+  .starting {
+    border-radius: 20px;
+    width: 80px;
+    margin-right: 10%;
+    height: 30px;
+  }
+  
+  .starting:hover {
+    border: 3px solid blue;
+  }
+  
+  .buttons {
+    margin-left: 45%;
+    margin-top: 5%;
+    align-items: center;
+    width: 206px;
+  }
